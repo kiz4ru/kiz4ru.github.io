@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio |  Kiz4ru";
-            $("#favicon").attr("href", "assets/images/_03e8683a-2394-4d06-965a-b2a903a642b4.jfif");
+            $("#favicon").attr("href", "assets/images/03e8683a-2394-4d06-965a-b2a903a642b4.png");
         }
         else {
             document.title = "Come Back To Portfolio";
