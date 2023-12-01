@@ -108,40 +108,12 @@
         "icon": "https://img.icons8.com/color/48/000000/windows-10.png"
     },
     {
-        "name":"C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    },
-    {
-        "name":"C#",
-        "icon": "https://img.icons8.com/color/48/000000/c-sharp-logo.png"
-    },
-    {
-        "name":"C",
-        "icon": "https://img.icons8.com/color/48/000000/c-programming.png"
-    },
-    {
-        "name":"Arduino",
-        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
-    },
-    {
         "name":"Raspberry Pi",
         "icon": "https://img.icons8.com/color/48/000000/raspberry-pi.png"
     },
     {
         "name":"Node.js",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name":"React",
-        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
-    },
-    {
-        "name":"Angular",
-        "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
-    },
-    {
-        "name":"Vue.js",
-        "icon": "https://img.icons8.com/color/48/000000/vue-js.png"
     },
     {
         "name":"Express.js",
@@ -152,20 +124,8 @@
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
     {
-        "name":"Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
-    {
         "name":"Heroku",
         "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name":"Digital Ocean",
-        "icon": "https://img.icons8.com/color/48/000000/digital-ocean.png"
-    },
-    {
-        "name":"Google Cloud",
-        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
     },
     {
         "name":"Amazon Web Services",
@@ -174,10 +134,6 @@
     {
         "name":"NPM",
         "icon": "https://img.icons8.com/color/48/000000/npm.png"
-    },
-    {
-        "name":"Webpack",
-        "icon": "https://img.icons8.com/color/48/000000/webpack.png"
     },
     {
         "name":"JQuery",

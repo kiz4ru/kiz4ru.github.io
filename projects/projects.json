@@ -2,21 +2,21 @@
   {
     "name": "Gestion con Flickr",
     "desc": "Esta aplicación es un software para gestionar la sesión de Flickr. Permite subir fotos a Flickr y agregarlas a un álbum específico. Además, proporciona instrucciones sobre los requisitos previos, la instalación, la configuración y el uso de la aplicación.",
-    "image": "../assets/images/Flickr_logo.png",
+    "image": "Flickr_logo",
     "category": "basicweb",
     "links": {
-      "view": "https://github.com/kiz4ru/Gestionar_Flickr_Session/WebChat#webchat",
+      "view": "https://github.com/kiz4ru/Gestionar_Flickr_Session",
       "code": "https://github.com/kiz4ru/Gestionar_Flickr_Session"
     }
   },
   {
-    "name": "",
-    "desc": "",
+    "name": "Enumeracion-Usuario-Wordpress 4.9.4.",
+    "desc": "Este script explota una vulnerabilidad que podemos encontrar los usuarios de la pagina web. Esta vulnerabilidad funciona ya que Wordpress no encripta el json source, entonces si le hacemos una peticion ala dirección (wp-json/wp/v2/users/) nos mostrara lo que se encuentra dentro de ella.",
     "image": "",
-    "category": "",
+    "category": "basicweb",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://github.com/kiz4ru/Enumeracion-Usuario",
+      "code": "https://github.com/kiz4ru/Enumeracion-Usuario"
     }
   }
 ]
