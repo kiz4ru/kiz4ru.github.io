@@ -3,9 +3,9 @@
     "name": "Gestion con Flickr",
     "desc": "Esta aplicación es un software para gestionar la sesión de Flickr. Permite subir fotos a Flickr y agregarlas a un álbum específico. Además, proporciona instrucciones sobre los requisitos previos, la instalación, la configuración y el uso de la aplicación.",
     "image": "../assets/images/Flickr_logo.png",
-    "category": "Web",
+    "category": "basicweb",
     "links": {
-      "view": "https://github.com/kiz4ru/Gestionar_Flickr_Session",
+      "view": "https://github.com/kiz4ru/Gestionar_Flickr_Session/WebChat#webchat",
       "code": "https://github.com/kiz4ru/Gestionar_Flickr_Session"
     }
   },
