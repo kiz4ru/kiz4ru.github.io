@@ -36,10 +36,6 @@
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
-    },
-    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
@@ -100,36 +96,12 @@
         "icon": "https://img.icons8.com/color/48/000000/android-os.png"
     },
     {
-        "name":"IOS",
-        "icon": "https://img.icons8.com/color/48/000000/ios-logo.png"
-    },
-    {
         "name":"Windows",
         "icon": "https://img.icons8.com/color/48/000000/windows-10.png"
     },
     {
-        "name":"Raspberry Pi",
-        "icon": "https://img.icons8.com/color/48/000000/raspberry-pi.png"
-    },
-    {
         "name":"Node.js",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
-    },
-    {
-        "name":"Express.js",
-        "icon": "https://img.icons8.com/color/48/000000/express.png"
-    },
-    {
-        "name":"MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
-        "name":"Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name":"Amazon Web Services",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
         "name":"NPM",
@@ -138,13 +110,5 @@
     {
         "name":"JQuery",
         "icon": "https://img.icons8.com/ios-filled/48/000000/jquery.png"
-    },
-    {
-        "name":"Nmap",
-        "icon": "https://img.icons8.com/color/48/000000/nmap.png"
-    },
-    {
-        "name":"Xml",
-        "icon": "https://img.icons8.com/color/48/000000/xml.png"
     }
 ]
