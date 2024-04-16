@@ -110,5 +110,16 @@
     {
         "name":"JQuery",
         "icon": "https://img.icons8.com/ios-filled/48/000000/jquery.png"
+    },
+
+    {
+        "name":"PowerShell",
+        "icon": "https://img.icons8.com/color/48/000000/powershell.png"
+
+    },
+
+    {
+        "name":"wireshark",
+        "icon": "https://img.icons8.com/color/48/000000/wireshark.png"
     }
 ]
