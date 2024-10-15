@@ -13,7 +13,7 @@
   {
     "name": "Automatizacion flick3r",
     "desc": "Esta aplicación permite iniciar sesión en Flickr utilizando OAuth y subir una foto a tu cuenta de Flickr. ",
-    "image": "flickr_logo",
+    "image": "Flickr_logo",
     "category": "basicweb",
     "links": {
       "view": "https://github.com/kiz4ru/Gestion_Flick3r",
